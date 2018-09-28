@@ -1,6 +1,3 @@
-***
-__Alex Kennedy__
+Alex Kennedy
 Partner:
     Tyler Benson
-###Lab 4: Learning Git!###
-***
